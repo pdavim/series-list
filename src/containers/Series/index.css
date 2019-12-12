@@ -1,0 +1,14 @@
+.input-field {
+  border-style: solid;
+  border-width: 1px;
+  padding: 2px;
+}
+
+.input-title {
+  padding-top: 10px;
+}
+
+.series-length {
+  font-style: italic;
+  text-transform: capitalize;
+}

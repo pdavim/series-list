@@ -1,0 +1,22 @@
+.showName {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 24px;
+}
+
+.showNoPremiered,
+.showNoRating {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.showPremiered {
+  text-transform: uppercase;
+}
+
+.showRating {
+  text-transform: uppercase;
+}
+
+.show-image {
+}
