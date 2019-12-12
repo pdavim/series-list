@@ -1,3 +1,9 @@
+Project created to fectch from an API a list of series and the information from a single serie.
+
+The project was created using React and React-Router.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
